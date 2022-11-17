@@ -1,0 +1,20 @@
+{
+  "users": [
+    {
+      "id": "iEuOBYkU",
+      "title": "The Little Book of Semaphores",
+      "author": "Allen B. Downey ",
+      "id_user": "1",
+      "f_name": "Varduhi",
+      "l_name": "Sargsyan",
+      "pass": "vard1",
+      "email": "sargsyan.varduhi@gmail.com",
+      "gender": "female",
+      "phone": "+37498996733",
+      "viber": "+37498996733",
+      "whatsApp": "+37498996733",
+      "creationDate": "2022-10-29 14:12:29",
+      "updateDate": "2022-11-29 10:11:27"
+    }
+  ]
+}
